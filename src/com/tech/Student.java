@@ -1,5 +1,23 @@
-package com.techpalle;
+package com.tech;
 public class Student{
-  int i=10;
-  System.out.Println(i);
+	public int i;
+	public int j;
+	public Student(int i,int j)
+	{
+		this.i=i;
+		this.j=j;
+		
+	}
 }
+  
+  
+ 
+  
+ 
+  
+
+
+  
+
+
+
